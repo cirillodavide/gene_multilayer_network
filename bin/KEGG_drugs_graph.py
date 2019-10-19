@@ -22,7 +22,7 @@ now = datetime.datetime.now()
 
 drug_dict = {}
 kegg_dict = {}
-release = 'br08010'
+release = 'br08310'
 
 def compile_dicts(x0,x1):
 	match = re.search(r'\[(.*?)\]',x0['name'])
