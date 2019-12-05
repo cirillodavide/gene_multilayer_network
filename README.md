@@ -2,7 +2,7 @@
 
 ### Motivation
 
-To populate the relational graph with molecular information, we created a gene-gene multilayer network consisting of five layers in which nodes represent genes and edges represent different types of associations retrieved from publicly available knowledge bases. The gene-gene multilayer network allows to expand the information of the meduloblastoma data-driven network provided by CURIE upon several layers of molecular information. All the data was downloaded on October 19, 2019. The scripts to generate the gene-gene multilayer network are available at https://github.com/cirillodavide/gene_multilayer_network.
+To populate the relational graph with molecular information, we created a gene-gene multilayer network consisting of five layers in which nodes represent genes and edges represent different types of associations retrieved from publicly available knowledge bases. The gene-gene multilayer network allows to expand the information of the meduloblastoma data-driven network provided by CURIE upon several layers of molecular information. All the data was downloaded on October 19, 2019.
 
 ### Data sources
 
